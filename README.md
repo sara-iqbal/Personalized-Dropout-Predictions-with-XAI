@@ -44,9 +44,13 @@ Impact: Identified num_submitted_assessments and avg_score as the most critical 
 # Project Structure
 
 01_Data_Preprocessing.ipynb: Data integration of 7 OULAD CSV files, cleaning, and SMOTE implementation.
+
 02_Baseline_Models.ipynb: Training and cross-validation of initial classifiers.
+
 03_Hyperparameter_Tuning.ipynb: Randomized and Grid Search optimization.
+
 04_XAI_Implementation.ipynb: Core global and local explanation logic using SHAP and LIME.
+
 05_Advanced_Analyses.ipynb: Temporal, Fairness, Robustness, and Clustering analyses.
 
 # References
