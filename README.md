@@ -2,7 +2,7 @@
 
 # Project Overview
 This project addresses the "black-box" nature of high-accuracy predictive models in education. By leveraging the Open University Learning Analytics Dataset (OULAD), I developed a multi-layered framework that not only predicts student dropout with high precision but also provides human-understandable justifications for these predictions.
-+2
+
 
 The core innovation is the translation of complex model outputs into actionable student personas and the empirical testing of explanation reliability through robustness analysis.
 
